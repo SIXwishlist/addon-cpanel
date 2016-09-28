@@ -1,0 +1,12 @@
+{
+    "name": "whsuite/addon-cpanel",
+    "type": "whsuite-addon",
+    "description": "cPanel plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ]
+}
